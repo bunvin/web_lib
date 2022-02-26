@@ -1,0 +1,7 @@
+-- light dark bottom to left (under or on top of navigation bar
+-- SaaS for dark light ?
+-- navigation bar
+-- make template html to inherant
+-- back end bottom
+-- responsive text
+
